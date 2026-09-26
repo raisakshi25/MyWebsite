@@ -1,0 +1,17 @@
+@media screen and (max-width:430px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    nav {
+        gap: 2%;
+    }
+
+    .box-img {
+        margin: 20px 0 20px 10px;
+    }
+    /* .box-img img{
+      width: 170px;
+    } */
+}
