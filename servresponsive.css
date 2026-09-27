@@ -1,7 +1,7 @@
+
 @media screen and (max-width:780px) {
     body {
         margin: 0;
-        background-color: brown;
     }
 
     nav {
@@ -16,14 +16,12 @@
         width: 170px;
         height: 390px;
         margin: 20px 0;
-        background-color: blueviolet;
     }
 
     .list1 {
         width: 200px;
         height: 280px;
         margin: 10px 0;
-        background: pink;
     }
 
     .list2 {
@@ -70,5 +68,4 @@
         margin: 15px 0 15px 15px;
         height: auto;
     }
-
 }
