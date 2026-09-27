@@ -1,4 +1,3 @@
-
 @media screen and (max-width:930px) {
     nav {
         gap: 6%;
@@ -31,12 +30,17 @@
     .dropdown {
         /* display:flex;
         flex-direction: row-reverse; */
-        left:75%;
+        left: 75%;
         top: 24%;
     }
 
     .contact {
         margin: 0 0 10px 20px;
+        height: auto;
+    }
+
+    .contact button {
+        margin: 25px auto;
     }
 
     .location {
